@@ -1,0 +1,12 @@
+names:
+- football
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: fball
+  url: https://universe.roboflow.com/alina-wang-pa0sr/fball/dataset/1
+  version: 1
+  workspace: alina-wang-pa0sr
+test: test/images
+train: /content/drive/MyDrive/FBall-1/train/images
+val: /content/drive/MyDrive/FBall-1/valid/images
