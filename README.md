@@ -1,3 +1,2 @@
-# Manas-Kumar-Muduli
-# Manas-Kumar-Muduli
-# Manas-Kumar-Muduli
+The project introduced a novel method that employed YOLOv8, an advanced football detection model, to track and identify football-relatedobjects in real-time video recordings. The proposed system aimed to improve the efficiency and precision of football tracking across various scenarios, including player recognition, ball tracking, and event identification. By harnessing the advanced capabilities of YOLOv8, such as enhanced backbone architecture and multi-scale detection, our approach achieved superior performance compared to existing methods in detecting football-related objects. We extensively evaluated the proposed system on benchmark datasets to assess its effectiveness and robustness. The results highlighted the efficacy of our approach in accurately tracking football in dynamic and challenging environments,
+thereby providing valuable insights for sports analytics, coaching strategies, and broadcast applications.
